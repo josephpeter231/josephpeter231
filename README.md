@@ -1,5 +1,5 @@
 # 💫About Me :
-A person who believes in learning something about everything and everthing about somthing.
+With every challenge, I learn, and the universe becomes my greatest teacher.
 
 ## 🌐Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Example.linkedin.in) 
@@ -14,5 +14,5 @@ A person who believes in learning something about everything and everthing about
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=josephpeter231&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+### ✍️Leetcode Badges
+![](https://leetcode-badge-showcase.vercel.app/api?username=josephpeterj&theme=dark&border=border&animated=true)
