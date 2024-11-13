@@ -14,5 +14,4 @@ With every challenge, I learn, and the universe becomes my greatest teacher.
 ## 🏆GitHub Trophies
 ![](https://github-trophies.vercel.app/?username=josephpeter231&theme=tokyonight&no-frame=false&no-bg=false&margin-w=4)
 
-### ✍️Leetcode Badges
-![](https://leetcode-badge-showcase.vercel.app/api?username=josephpeterj&theme=github-dark&border=border&animated=true)
+
